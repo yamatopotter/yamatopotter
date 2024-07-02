@@ -1,13 +1,13 @@
 # Quem sou?
-Um profissional da área de TI versátil que tem preferência pela área de desenvolvimento, mas se tiver que ir pra outra área, sem problemas!
+Sou um desenvolvedor versátil da área de TI, estudante de Engenharia de Software e tem como foco principal em desenvolvimento front-end, mas também confortável em trabalhar em outras áreas.
 
-# O que eu sei:
-- PHP - Conhecimento básico
-- Javascript + React - Hoje é o meu foco de trabalhos e projetos
-- Java + Springboot - Tenho conheccimmenntoo,  mas nos projetos atuais a demanda por front tem sido maior
-- UX/UI - Conceitos básicos
-- Infraestrutura em Cloud - Conhecimentos em AWS e com a certificação AWS Cloud Praticioner
-- Wordpress - Se procura alguem para desenvolver temas nativos, chama ae!
+# Habilidades:
+- PHP: Conhecimento básico.
+- JavaScript + React: Foco atual de trabalho e projetos.
+- Java + Spring Boot: Experiência, embora projetos recentes tenham mais demanda em front-end.
+- UX/UI: Conceitos básicos.
+- Infraestrutura em Cloud: Experiência com AWS, certificado AWS Cloud Practitioner.
+- WordPress: Especializado em desenvolvimento de temas nativos.
 
 # Como entrar em contato:
 - Email: matheuspbarreto@hotmail.com.br
